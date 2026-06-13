@@ -1,3 +1,5 @@
+
+
 *Un'avventura per cinque personaggi di 3° livello.*
 
 In questo arco narrativo, i giocatori viaggiano verso il cupo villaggio di Barovia, devastato dalla morte e dalla disperazione in seguito al risveglio di Strahd. Quando i giocatori arrivano alle barricate, incontrano Ismark, il figlio maggiore del burgomaster del villaggio, recentemente ferito.
@@ -21,7 +23,7 @@ Il viaggio da [[Arc A - Escape From Death House#A3. Outside Death House|la torre
 # B2. Porte di Barovia (pag 33)
 <span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area B.</em></span>
 
-Il viaggio dalle Gates of Barovia a [[#B3. Svalich Woods]] è lungo un quarto di miglio e richiede cinque minuti.
+Il viaggio dalle Gates of Barovia a [[#B3. Foresta di Svalich]] è lungo un quarto di miglio e richiede cinque minuti.
 
 <div class="description">La nebbia si riversa fuori dalla foresta per inghiottire la strada alle vostre spalle. Più avanti, alti contrafforti di pietra si stagliano grigi nella nebbia, sovrastando l'impenetrabile vegetazione
 ai bordi della strada. Enormi cancelli di ferro sono incastonati nella muratura in pietra. La rugiada si abbarbica tenacemente alle sbarre arrugginite. Le statue di due guardiani armati decapitati fiancheggiano il cancello. Le loro teste giacciono tra le erbacce sottostanti. li loro saluto è puro silenzio.</div>
@@ -46,7 +48,7 @@ La mano di Dalvan che regge la bussola è distesa in direzione di un albero vici
 >
 > Determinato a trovare una via di fuga da Barovia, Dalvan si recò all'accampamento Vistani presso Tser Pool, cercando la rinomata veggente Vistani Madam Eva. Lì, Madam Eva lesse il suo futuro nelle carte Tarokka e pescò il Cavaliere — una carta che prediceva che sarebbe morto nella valle di Barovia.
 >
-> In preda al panico, Dalvan tornò al villaggio di Barovia con il favore delle tenebre, rubò un cavallo e una bussola e partì per la strada orientale in uscita da Barovia. Quando la Svalich Road sembrò finire, Dalvan si addentrò nei boschi, attraversando la nebbia e riemergendo sul lato opposto della strada.
+> In preda al panico, Dalvan tornò al villaggio di Barovia con il favore delle tenebre, rubò un cavallo e una bussola e partì per la strada orientale in uscita da Barovia. Quando la Vecchia strada di Svalich sembrò finire, Dalvan si addentrò nei boschi, attraversando la nebbia e riemergendo sul lato opposto della strada.
 >
 > Un Dalvan terrorizzato, disperato e delirante ripeté il ciclo tredici volte, con il cavallo rubato che spirò per la fatica a metà strada. Non passò molto tempo prima che anche Dalvan soccombesse agli effetti della nebbia di Barovia — non prima, però, di aver inciso il proprio epitaffio sotto forma di intaglio sul quarto albero.
 >
@@ -61,7 +63,7 @@ Se i giocatori continuano a seguire il sentiero nella direzione delle frecce, ar
 
 La nebbia fa parte delle Nebbie che circondano e intrappolano Barovia. Se i giocatori hanno portato con sé la bussola di Dalvan, l'ago ora gira all'impazzata in cerchio.
 
-Se i giocatori seguono il sentiero attraverso la nebbia, emergono dopo 2d4 minuti in una porzione sconosciuta dei Svalich Woods. Ogni volta che i giocatori emergono dal muro di nebbia intorno a Barovia, devono effettuare un tiro salvezza su Costituzione con CD 5 o subire 1 livello di indebolimento, poiché la nebbia prosciuga la loro energia e la loro forza vitale. (La CD aumenta di 5 ogni volta che i giocatori passano di nuovo attraverso la nebbia e si resetta dopo un riposo lungo.)
+Se i giocatori seguono il sentiero attraverso la nebbia, emergono dopo 2d4 minuti in una porzione sconosciuta dei Foresta di Svalich. Ogni volta che i giocatori emergono dal muro di nebbia intorno a Barovia, devono effettuare un tiro salvezza su Costituzione con CD 5 o subire 1 livello di indebolimento, poiché la nebbia prosciuga la loro energia e la loro forza vitale. (La CD aumenta di 5 ogni volta che i giocatori passano di nuovo attraverso la nebbia e si resetta dopo un riposo lungo.)
 
 Uscendo dalla nebbia, i giocatori possono vedere un quarto albero, che reca altre tredici tacche e una freccia che punta più avanti lungo la direzione del sentiero. Inoltre, il quarto albero sembra recare un'incisione e ha un oggetto che sporge dal suo tronco. Se i giocatori lo ispezionano, leggi:
 
@@ -69,7 +71,7 @@ Uscendo dalla nebbia, i giocatori possono vedere un quarto albero, che reca altr
 <p>"IL CAVALIERE CAVALCA." </p>
 <p>"LA VEGGENTE DISSE IL VERO."</p></div>
 
-Se i giocatori seguono il sentiero nella direzione della freccia, scoprono che incrocia la Svalich Road prima di tornare alla posizione del cadavere di Dalvan.
+Se i giocatori seguono il sentiero nella direzione della freccia, scoprono che incrocia la Vecchia strada di Svalich prima di tornare alla posizione del cadavere di Dalvan.
 
 Se i giocatori lasciano poi il cadavere di Dalvan e ritornano, scoprono che sia i suoi resti che quelli del cavallo sono svaniti.
 
@@ -104,7 +106,7 @@ Questa scena si svolge in gran parte come descritto in <span class="citation">Ap
 
 ![[Ismark.png]]
 <span class="credit">"Ismark Kolyanovich" di Caleb Cleveland. Sostenetelo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-L'uomo è Ismark Kolyanovich, che è in gran parte come descritto in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. Il corvo è Muriel, una **wereraven** travestita e membro dei [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Due **scouts** che imbracciano balestre leggere (+4 per colpire, gittata 80/320 piedi, un bersaglio, *Colpito:* 6 (1d8 + 2) danni perforanti) di nome Kereza e Korga montano la guardia sui tetti vicini, mentre sei **commoners** Baroviani riparano la barricata.
+L'uomo è Ismark Kolyanovich, che è in gran parte come descritto in <span class="citation">E2. Sangue della vigna Tavern (p. 43)</span>. Il corvo è Muriel, una **corvo mannaro** travestita e membro dei [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Due **scouts** che imbracciano balestre leggere (+4 per colpire, gittata 80/320 piedi, un bersaglio, *Colpito:* 6 (1d8 + 2) danni perforanti) di nome Kereza e Korga montano la guardia sui tetti vicini, mentre sei **commoners** Baroviani riparano la barricata.
 
 > [!profile]+ **Profilo: Ismark Kolyanovich**
 >
@@ -142,7 +144,7 @@ Se i giocatori accettano, Muriel li segue fino alla piazza del villaggio, restan
 > Ismark non sa che il corvo dalle ali blu è una mutaforma, e non sa se qualcuno gli abbia dato un nome. Crede tuttavia che la presenza del corvo sia un buon auspicio e può condividere la superstizione sui corvi descritta in <span class="citation">Beliefs and Superstitions (p. 28)</span>. (Questa superstizione è condivisa da tutti i Baroviani, non solo dai Vistani.)
 
 > [!design]+ **Nota di Design: Entrare nel Villaggio**
-> Questa scena è stata scritta per trasmettere immediatamente la diffidenza degli abitanti, stabilire Ismark come un alleato simpatico e introdurre la **mutafora** Muriel Vinshaw e i corvi di Barovia, prefigurando così i Guardiani della piuma.
+> Questa scena è stata scritta per trasmettere immediatamente la diffidenza degli abitanti, stabilire Ismark come un alleato simpatico e introdurre la **corvo mannaro** Muriel Vinshaw e i corvi di Barovia, prefigurando così i Guardiani della piuma.
 >
 > Muriel riapparirà più tardi in [[Act I - Into the Mists/Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], in fuga da una **greater strix** dopo aver origliato l'incontro di Strahd con Madam Eva, e accompagnerà i giocatori nella città di Vallaki per il resto dell'Arc C. Muriel apparirà anche nella sua forma umana e persona in [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] per accompagnare i giocatori nel loro viaggio verso la cantina Wizard of Wines, e rivelerà la sua vera natura licantropica a [[Arc J - The Stolen Gem#Ludmilla's Provocations|Yester Hill]].
 
@@ -152,10 +154,10 @@ Mentre i giocatori e Ismark passano attraverso le strade del villaggio, leggi:
 <div class="description"><p>Abitanti smunti dagli occhi spenti o tormentati vi guardano passare, i loro vestiti macchiati di fango scuro o sangue e le loro mani mai lontane da un arco, un'ascia o un forcone. Ismark saluta ognuno per nome. Diversi si avvicinano a lui, parlando sottovoce con toni sommessi prima di fuggire ancora una volta nelle case gementi o nei vicoli cupi intorno a voi.</p>
 <p>Ismark vi guida attraverso una seconda barricata più grande, presidiata da abitanti dal volto truce armati di clave e lance. Oltre ad essa si erge una vecchia statua di pietra scheggiata al centro di una piccola piazza cittadina, raffigurante un uomo che indossa un'armatura di cuoio e impugna una spada. Più di una dozzina di tende e fuochi da campo di fortuna sono stati allestiti intorno ad essa, ospitando una schiera dall'aria esausta di abitanti giovani, vecchi e malaticci.</p></div>
 
-Aggiungi la descrizione dell'esterno della Taverna Blood of the Vine, fornita in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>.
+Aggiungi la descrizione dell'esterno della Taverna Sangue della vigna, fornita in <span class="citation">E2. Sangue della vigna Tavern (p. 43)</span>.
 
 <div class="description">L'unica illuminazione della piazza principale proviene
-da un singolo fascio di luce che squarcia la fitta nebbia come un coltello. Sopra la porta spalancata, un'insegna pende precariamente di traverso, proclamando che questa è la taverna Sangue della vita.</div>
+da un singolo fascio di luce che squarcia la fitta nebbia come un coltello. Sopra la porta spalancata, un'insegna pende precariamente di traverso, proclamando che questa è la taverna Sangue della Vigna.</div>
 
 Le tende ospitano gli anziani, i malati e i bambini del villaggio, che sono stati radunati qui come fortificazione di ultima istanza. La statua reca alla base una targa consumata dalle intemperie, che recita: “ISMARK ANTONOVICH IL GRANDE. Burgomaster di Barovia. Flagello dei Vampiri. 618—662 B.C." (“B.C." sta per “Barovian Calendar".)
 ![[Ismark the Great.png]]
@@ -177,7 +179,7 @@ Ismark può condividere le seguenti informazioni:
 * Poco più di tre mesi fa, un uomo di nome Doru, figlio del sacerdote del villaggio, scatenò una ribellione contro il castello, sperando di liberare la valle dalla sua prigione nelle nebbie. La loro rivolta fallì, risvegliando Strahd dalla sua dormienza e spingendo il vampiro a giurare vendetta sul villaggio sottostante.
 * Diverse decine di Baroviani sono fuggiti nella città di Vallaki, a quasi un giorno di viaggio verso ovest. I restanti sono rimasti nel villaggio, determinati a difendere le proprie case e coloro che non potevano intraprendere il viaggio.
 * Sei notti fa, le forze non morte di Strahd hanno iniziato ad attaccare la città. Ogni notte, i Baroviani respingono ondate multiple di morti — e ogni notte, l'orda arriva sempre più vicina a sfondare le difese del villaggio.
-* Molti Baroviani temono che il villaggio sia spacciato. I non morti hanno infestato i boschi a nord, ovest e sud, bloccando la Old Svalich Road poco dopo il fiume Ivlis. Con le Nebbie che bloccano il passaggio a est, il villaggio è stato effettivamente isolato dal mondo, lasciato a sopravvivere da solo — o a perire.
+* Molti Baroviani temono che il villaggio sia spacciato. I non morti hanno infestato i boschi a nord, ovest e sud, bloccando la Old Vecchia strada di Svalich poco dopo il fiume Ivlis. Con le Nebbie che bloccano il passaggio a est, il villaggio è stato effettivamente isolato dal mondo, lasciato a sopravvivere da solo — o a perire.
 
 [[Non-Player Characters#Ismark Kolyanovich|Ismark]] può anche condividere la storia recente del villaggio, così come la maggior parte delle informazioni in <span class="citation">Roleplaying Ismark (p. 43)</span> e <span class="citation">Barovian Lore (p. 26)</span>. Tuttavia, Ismark non menziona un "mago pazzo" e non suggerisce che i Vistani servano Strahd. (Si noti che il padre di Ismark, il Burgomaster Kolyan Indirovich, è ancora vivo — sebbene ferito — nella villa del burgomaster, e la sorella di Ismark, Ireena Kolyana, non è stata ancora morsa da Strahd.)
 
@@ -199,7 +201,7 @@ Se uno o più giocatori dovessero unirsi a lui, Bildrath può condividere le seg
 * Nessuno dei rivoluzionari è mai tornato. Pochi giorni dopo, un elfo dalla pelle scura venne al villaggio e annunciò che il villaggio aveva novanta giorni per fare pace con gli dei prima che il signore di Castle Ravenloft — ora risvegliato dopo cento anni di sonno — esigesse la penitenza per la loro disobbedienza.
 * Alcuni abitanti se ne andarono. Molti altri volevano andarsene. Tuttavia, Ismark pronunciò un discorso altisonante nella piazza del villaggio davanti alla statua di Ismark il Grande, promettendo agli abitanti che coloro che fossero rimasti avrebbero resistito e difeso le proprie case. "L'audacia di quel bastardo," sibila Bildrath. "In piedi davanti alla statua del suo bisnonno come se valesse un *decimo* di lui."
 * Bildrath voleva andarsene — ma sua sorella, Marta, e suo marito, Dragomir, scelsero di restare con il loro figlio, Parriwimple, ispirati dalle parole di Ismark. Riluttante a lasciare la sua famiglia, anche Bildrath rimase. "Pensavano di combattere per difendere ciò che è loro," soffoca, scacciando le lacrime. "Quei maledetti *idioti* avrebbero dovuto correre e non voltarsi mai indietro."
-* Novanta giorni dopo che l'elfo ebbe consegnato il suo proclama, arrivarono i non morti, sciamando a dozzine dalla Foresta Svalich. Gli abitanti del villaggio reagirono, difendendo le strade con barricate, spade e frecce. "Ma i morti continuavano a venire," gracida Bildrath. "E Marta —" Cade in silenzio. (Bildrath ha perso Marta e Dragomir negli attacchi e incolpa Ismark per il suo fallimento nel proteggerli, cosa che ha lasciato Parriwimple — il nipote di Bildrath — orfano.)
+* Novanta giorni dopo che l'elfo ebbe consegnato il suo proclama, arrivarono i non morti, sciamando a dozzine dalla Foresta di Svalich. Gli abitanti del villaggio reagirono, difendendo le strade con barricate, spade e frecce. "Ma i morti continuavano a venire," gracida Bildrath. "E Marta —" Cade in silenzio. (Bildrath ha perso Marta e Dragomir negli attacchi e incolpa Ismark per il suo fallimento nel proteggerli, cosa che ha lasciato Parriwimple — il nipote di Bildrath — orfano.)
 
 Quando ha recuperato la compostezza, Bildrath avverte i giocatori che il villaggio è spacciato, e probabilmente tutta Barovia con esso. "Non c'è sole da riportare," sputa. "Nessuna fuga dalle nebbie. Questo è l'Inferno, ora e per l'eternità. Prima lo accetterete, meglio sarà per voi."
 
@@ -238,7 +240,7 @@ Pochi istanti dopo che Bildrath se n'è andato, se i giocatori non l'hanno già 
 Una volta calmatasi, Mary si asciuga gli occhi, ringrazia Ismark (e i giocatori, se l'hanno confortata) e lascia la taverna.
 
 > [!lore]+ **Dov'è Gertruda?**
-> Gertruda, disperata per lo stato del villaggio e determinata a mostrare lo stesso coraggio di Doru, ha lasciato Barovia per Vallaki la mattina dell'arrivo dei giocatori, cercando di ottenere aiuto dal Borgomastro. Gertruda, tuttavia, non è mai arrivata a Vallaki. Mentre si faceva strada nella Foresta Svalich, la carrozza nera di Strahd le è venuta incontro — e il Diavolo in persona ne è uscito. Terrorizzata, ma riluttante a mostrare paura, Gertruda ha chiesto educatamente a Strahd di permettere la consegna di rifornimenti a Barovia in modo che gli abitanti potessero ricostruire.
+> Gertruda, disperata per lo stato del villaggio e determinata a mostrare lo stesso coraggio di Doru, ha lasciato Barovia per Vallaki la mattina dell'arrivo dei giocatori, cercando di ottenere aiuto dal Borgomastro. Gertruda, tuttavia, non è mai arrivata a Vallaki. Mentre si faceva strada nella Foresta di Svalich, la carrozza nera di Strahd le è venuta incontro — e il Diavolo in persona ne è uscito. Terrorizzata, ma riluttante a mostrare paura, Gertruda ha chiesto educatamente a Strahd di permettere la consegna di rifornimenti a Barovia in modo che gli abitanti potessero ricostruire.
 > Strahd è apparso divertito dal coraggio di Gertruda e l'ha invitata a Castle Ravenloft per “discutere ulteriormente delle riparazioni." Rendendosi conto che si trattava di un invito che non poteva rifiutare, Gertruda ha accettato con riluttanza di accompagnarlo.
 > Da allora, Gertruda è rimasta un'“ospite d'onore" nel castello, anche se è diventato chiaro che Strahd non ha intenzione di permetterle di lasciare le sue stanze — tanto meno il mastio stesso.
 
@@ -352,13 +354,13 @@ Se i giocatori chiedono della ribellione di Doru, Ireena può condividere le seg
 
 * Doru era un loro amico e il figlio del sacerdote del villaggio, Padre Donavich. Era un giovane solare e allegro, con un'indole gioiosa e un grande fervore per tutto ciò che faceva.
 * Poco più di tre mesi fa, senza preavviso, Doru annunciò una crociata contro Castle Ravenloft, che proclamò avrebbe liberato Barovia dalle nebbie e riportato la luce del sole nella valle. Oltre due dozzine di giovani Baroviani lo accompagnarono, così come uno studioso di terre lontane di nome Alanik Ray, che era stato ospite a casa di Ismark e Ireena per le precedenti settimane mentre studiava la storia e l'ecologia baroviana.
-* Ireena non ricorda molto di Alanik, se non che era un uomo curioso, piuttosto intenso, che stava per conto suo, faceva lunghe passeggiate nella Foresta Svalich e possedeva una scimmia domestica. Ricorda però che ebbe un furioso litigio con Doru a un certo punto, il che la confuse quando poco dopo accompagnò Doru a Castle Ravenloft.
+* Ireena non ricorda molto di Alanik, se non che era un uomo curioso, piuttosto intenso, che stava per conto suo, faceva lunghe passeggiate nella Foresta di Svalich e possedeva una scimmia domestica. Ricorda però che ebbe un furioso litigio con Doru a un certo punto, il che la confuse quando poco dopo accompagnò Doru a Castle Ravenloft.
 * 
 #### Il Dilemma di Kolyan
 Durante il pranzo, Kolyan invita i giocatori ad aiutarlo a deliberare su un dilemma che sta cercando di risolvere, notando che troverebbe utile avere "una prospettiva esterna" sulla questione. Se i giocatori accettano, leggi:
 
 <div class="description">
-<p>Il borgomastro fa un cenno verso un foglio di pergamena appoggiato su uno scrittoio. Sulla sua superficie, potete distinguere un rozzo disegno dell'area intorno al villaggio, con linee sottili che raffigurano la Vecchia Strada Svalich e il fiume Ivlis a sud-ovest, e sagome più scure che raffigurano il Bosco Svalich a nord, ovest e sud.</p>
+<p>Il borgomastro fa un cenno verso un foglio di pergamena appoggiato su uno scrittoio. Sulla sua superficie, potete distinguere un rozzo disegno dell'area intorno al villaggio, con linee sottili che raffigurano la Vecchia strada di Svalich e il fiume Ivlis a sud-ovest, e sagome più scure che raffigurano il Foresta di Svalich a nord, ovest e sud.</p>
 <p>"Ogni notte," rimbomba lui, “dozzine di non morti assediano le nostre difese, uccidendo alcuni di noi e ferendone molti altri. Invece di attaccare tutti in una volta, tuttavia, arrivano in gruppi, con ogni ondata che colpisce le nostre difese separatamente, e quasi casualmente durante la notte. Cosa ne pensate?"</p>
 </div>
 
@@ -389,7 +391,7 @@ Se i giocatori menzionano l'offerta di Ismark di fornire loro delle stanze, Iree
 Se i giocatori chiedono dei suoi genitori, Ireena condivide liberamente le seguenti informazioni chiedendo a sua volta delle famiglie dei giocatori:
 
 * La madre di Ismark e Ireena era Korina Targolova. Korina morì di malattia quattordici anni fa, ma Kolyan ha fatto del suo meglio da allora per continuare a crescere entrambi i figli da solo. (La sciarpa che Ireena indossa è l'ultimo ricordo di sua madre.)
-* Kolyan, loro padre, fu colui che trovò Ireena quando era una bambina, al limitare della Foresta Svalich vicino al Pillarstone of Ravenloft. Ireena non ricorda nulla del suo passato prima di allora, ma è grata ai suoi genitori per averla accolta e amata teneramente.
+* Kolyan, loro padre, fu colui che trovò Ireena quando era una bambina, al limitare della Foresta di Svalich vicino al Pillarstone of Ravenloft. Ireena non ricorda nulla del suo passato prima di allora, ma è grata ai suoi genitori per averla accolta e amata teneramente.
 
 Mentre i giocatori esplorano le loro stanze, uno di loro trova un estratto strappato della *Van Richten's Guide to Vampires* del Dr. Rudolph van Richten appoggiato su un comodino accanto al letto. Questo estratto della prefazione, che Van Richten strappò dal libro di Doru nel mezzo di un furioso litigio, recita quanto segue:
 
@@ -473,7 +475,7 @@ Se qualcuno dei giocatori lo ha trattato con gentilezza alla taverna Sangue dell
 Il crepuscolo cala poco dopo che i giocatori completano i preparativi. Leggi:
 
 <div class="description">
-<p>Mentre le ultime ombre di luce svaniscono dal cielo, un silenzio inquietante scende sul villaggio. Un vento gelido sussurra tra le strade, portando con sé il debole profumo della decomposizione mentre le foglie dei Svalich Woods frusciano in lontananza.</p>
+<p>Mentre le ultime ombre di luce svaniscono dal cielo, un silenzio inquietante scende sul villaggio. Un vento gelido sussurra tra le strade, portando con sé il debole profumo della decomposizione mentre le foglie dei Foresta di Svalich frusciano in lontananza.</p>
 <p>Un urlo agghiacciante squarcia la notte, seguito da un secondo — e poi da un terzo. La cacofonia di stridori e gemiti disumani si fa più forte, echeggiando attraverso il bacino da ogni direzione, mentre la foresta lontana sembra prendere vita.</p>
 </div>
 
@@ -482,37 +484,29 @@ Se è presente, il volto di Bildrath si fa cupo e stringe forte la sua balestra.
 > [!info]+ **Una Notte Senza Luna**
 > Di notte, le torce montate a intervalli di tre metri lungo la barricata illuminano l'area circostante fino a una distanza di 12 metri. Nella notte dell'assedio, una fitta nebbia avanza insieme ai non morti fino all'area illuminata, impedendo ai difensori con scurovisione di vedere le creature in avvicinamento in anticipo.
 
-> [!abstract]+ **Tenere la Linea**
-> Se gli zombie riescono a sfondare la barricata, Parriwimple tenta di tenere il punto di strozzatura con la sua lancia, sebbene sia grato per qualsiasi aiuto i giocatori possano fornire.
-
 > [!info]+ **Resistenza Non Morta (Undead Fortitude)**
 > Modifica la capacità ***Resistenza Non Morta*** di ogni **zombie** e **zombie plague spreader** come segue:
 >
 > * ***Resistenza Non Morta (1/giorno).*** Se i danni riducono lo zombie a 0 punti ferita, lo zombie scende invece a 1 punto ferita. Lo zombie non può usare questa capacità se il danno è radioso o derivante da un colpo critico, se il danno subito è pari o superiore a 15, o se aveva solo 1 punto ferita rimanente.
 
-> [!combat]- **Combattimento - L'Assedio**
-> **Livello di Combattimento**: Lieve (prima ondata), Lieve (seconda ondata), Sanguinoso (terza ondata)
-> **Livello del Personaggio Previsto**: 3
-> **Alleati:** Bildrath (GS 0), Parriwimple (GS 2)
-> **Consumo HP Previsto:** 66%
->
-> ### **Nemici:**
->
-> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
-> |-|-|-|-|-|
-> | Ghoul | 3 | 2 | 2 | 2 |
-> | Wight | 0 | 0 | 1 | 1 |
-> | Zombie | 5 | 9 | 8 | 11 |
-> | Zombie Plague Spreader | 1 | 1 | 1 | 1 |
->
-> ### **Bilanciamento:**
-> Se hai meno o più di 5 giocatori, modifica l'incontro nei seguenti modi:
->
-> | Numero di Giocatori | Modifica |
-> |-|-|
-> | 3 | Riduci il numero di zombie nella prima ondata a 5. Rimuovi gli zombie nella seconda ondata. Sostituisci il wight nella terza ondata con un ghoul. |
-> | 4 | Riduci il numero di zombie nella prima ondata a cinque. Riduci il numero di zombie nella seconda ondata a uno. Sostituisci il wight nella terza ondata con tre zombie. |
-> | 6 | Aumenta il numero di zombie nella prima ondata a sette. Aumenta il numero di zombie nella seconda ondata a tre. Aggiungi uno zombie alla terza ondata. |
+***Zombie (pag 346)***
+**CA** 8, **Iniziativa** -2, **PF** 15, **Schianto** TxC +3, 5 (1d8+1) danni.
+
+***Ghoul (pag 150)***
+**CA** 12, **Iniziativa** +2, **PF** 22, **Multi attacco**
+**Artiglio** TxC +4, 4 (1d4+2) taglienti, TS Cos CD 10 o paralizzato fino a turno successivo
+**Morso** TxC +4, 5 (1d6+2) perforanti + 3 (1d6) necrotici.
+
+***Wight (pag 337)***
+**CA** 14, **Iniziativa** +4, **PF** 82, **Multi attacco**
+**Spada necrotica** TxC +4, 6 (1d8+2) taglienti + 4 (1d8) necrotici.
+**Arco necrotico** TxC +4, 6 (1d8+2) perforanti + 4 (1d8) necrotici.
+**Risucchio di vita** TS Cos CD 13, 6 (1d8+2) danni necrotici.
+
+***Zombie appestato (pag 255)***
+**CA** 10, **Iniziativa** 0, **PF** 78, **Multi attacco**
+**Schianto** TxC +5, 5 (1d8) danni + 2 (1d4) necrotici.
+**Miasma virulento** gas tossico area 9m. TS Cos CD 12 o 7 (2d6) danni da veleno, sennò dimezza.
 
 ***La Prima Ondata.*** Poco dopo che è scesa l'oscurità, sei **zombie** emergono dalle tenebre e si avvicinano alla barricata. Leggi:
 
@@ -530,24 +524,19 @@ In combattimento, gli zombie focalizzano i loro attacchi sulla barricata, tentan
 
 Gli zombie tentano nuovamente di abbattere la barricata, mentre i ghoul cercano di scavalcarla usando i loro artigli.
 
-***La Terza Ondata.*** All'inizio del settimo round di combattimento dopo l'arrivo della prima ondata, un **wight** e uno **zombie plague spreader** <span class="citation">(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> si avvicinano alla barricata. Leggi:
+***La Terza Ondata.*** All'inizio del settimo round di combattimento dopo l'arrivo della prima ondata, un **wight** e uno **zombie appestato** <span class="citation">(<em>Guida di Van Richten a Ravenloft</em>, p. 255)</span> si avvicinano alla barricata. Leggi:
 
 <div class="description">
 <p>Un unico non morto barcolla lentamente dall'oscurità, i suoi occhi bianchi fissano ottusamente oltre la luce tremolante delle torce. La sua carne, sebbene marcia, è di un bianco liscio e malaticcio, la pelle percorsa da vene cremisi in rilievo. Una debole nuvola di nebbia rossastra fuoriesce continuamente dalla sua bocca verso la terra macchiata di sangue prima di dissiparsi nell'aria.</p>
 </div>
 
-> [!info]+ **Lo Zombie Plague Spreader**
-> Aumenta i punti ferita del **plague spreader** a 130, diminuisci il danno necrotico inflitto dal suo ***Schianto*** a 5 (1d8) e diminuisci il danno inflitto dal suo ***Virulent Miasma*** a 7 (2d6) danni da veleno per creatura.
->
-> Inoltre, modifica l'azione ***Virulent Miasma*** in modo che un Umanoide ridotto a 0 punti ferita non muoia automaticamente, ma risorga come zombie solo se muore prima di stabilizzarsi o riguadagnare punti ferita. La CD per stabilizzare una creatura ridotta a 0 punti ferita in questo modo aumenta a 20.
+Lo zombie appestato si avvicina prima il più possibile ai giocatori, poi rilascia il suo ***Virulent Miasma***, tentando di colpire quante più creature possibile. (Se possibile, assicurati che il miasma colpisca Bildrath, per far sì che i giocatori comprendano la natura del suo attacco. Né Bildrath né Parriwimple hanno mai visto o sentito parlare di un tale non morto, ed entrambi ignorano il virus che trasporta.) Dopo che lo zombie appestato usa il suo miasma, la nebbia rossa smette di uscire dalla sua bocca.
 
-Il plague spreader si avvicina prima il più possibile ai giocatori, poi rilascia il suo ***Virulent Miasma***, tentando di colpire quante più creature possibile. (Se possibile, assicurati che il miasma colpisca Bildrath, per far sì che i giocatori comprendano la natura del suo attacco. Né Bildrath né Parriwimple hanno mai visto o sentito parlare di un tale non morto, ed entrambi ignorano il virus che trasporta.) Dopo che il plague spreader usa il suo miasma, la nebbia rossa smette di uscire dalla sua bocca.
-
-Nel frattempo, il wight attacca dall'oscurità oltre la luce delle torce, effettuando attacchi con l'***arco lungo*** da 18 metri di distanza. Se i giocatori ingaggiano il plague spreader in mischia o lo riducono a 90 punti ferita o meno, il wight sguaina la sua ***spada lunga*** e affronta direttamente i giocatori.
+Nel frattempo, il wight attacca dall'oscurità oltre la luce delle torce, effettuando attacchi con l'***arco lungo*** da 18 metri di distanza. Se i giocatori ingaggiano lo zombie appestato in mischia o lo riducono a 90 punti ferita o meno, il wight sguaina la sua ***spada lunga*** e affronta direttamente i giocatori.
 
 ## B5g. La Barricata Occidentale
 ### La Guida del Corvo
-Poco dopo che i giocatori hanno sconfitto l'ultima ondata, il **wereraven** Muriel appare loro in forma di **corvo**. Leggi:
+Poco dopo che i giocatori hanno sconfitto l'ultima ondata, il **corvo mannaro** Muriel appare loro in forma di **corvo**. Leggi:
 
 <div class="description">
 <p>Una piccola sagoma scura piomba dai cieli, risolvendosi nella forma di un corvo familiare, le sue ali con le punte blu brillano alla luce delle torce. I suoi occhi sono spalancati e terrorizzati, e un grido urgente e disperato risuona ripetutamente dal becco aperto.</p>
@@ -560,7 +549,7 @@ Sebbene non possa parlare in forma di corvo, Muriel tenta di avvertire non verba
 </div>
 
 ### L'Ultima Resistenza di Ismark
-Se i giocatori la seguono, Muriel li guida a ovest verso la piazza della città, conducendoli attraverso una serie di vicoli dietro e intorno alla taverna Blood of the Vine, emergendo infine sul lato nord della strada appena a ovest della piazza. Quando i giocatori arrivano, leggi:
+Se i giocatori la seguono, Muriel li guida a ovest verso la piazza della città, conducendoli attraverso una serie di vicoli dietro e intorno alla taverna Sangue della vigna, emergendo infine sul lato nord della strada appena a ovest della piazza. Quando i giocatori arrivano, leggi:
 
 <div class="description">
 <p>Dozzine di corpi giacciono in strada, insanguinati e immobili. L'aria è densa del pungente odore di marciume e morte, e il vento ululante canta con il suono di urla terrorizzate.</p>
@@ -572,37 +561,12 @@ Se i giocatori la seguono, Muriel li guida a ovest verso la piazza della città,
 
 <span class="credit">"Village of Barovia Town Square" di DM Andy Maps. Versioni ad alta risoluzione disponibili <a href="https://ko-fi.com/s/05afd01fa8/">qui!</a></span>
 
-Ismark, ridotto a 40 punti ferita, accoglie con favore qualsiasi aiuto i giocatori possano fornire contro il plague spreader. Se ridotto a 30 punti ferita o meno, Ismark ostacola direttamente il plague spreader compiendo l'azione di Schivata (**Dodge**) in ogni suo turno, sperando di rallentarlo per dare ai giocatori il tempo di sconfiggerlo.
+Ismark, ridotto a 40 punti ferita, accoglie con favore qualsiasi aiuto i giocatori possano fornire contro il plague spreader. Se ridotto a 30 punti ferita o meno, Ismark ostacola direttamente lo zombie appestato compiendo l'azione di **Schivata** in ogni suo turno, sperando di rallentarlo per dare ai giocatori il tempo di sconfiggerlo.
 
-Il plague spreader, che inizia a 36 metri dal centro della piazza e ha le stesse modifiche di quello descritto in [[#The Siege]], non userà il suo ***Virulent Miasma*** finché non raggiungerà il centro della piazza o non sarà ridotto a 30 punti ferita o meno. Ogni round, tenta di muoversi alla sua massima velocità in linea retta verso la piazza. Se non può farlo, usa il suo ***Multiattacco*** contro le creature a portata. (Il plague spreader non tenta di aggirare le creature che lo ostacolano, anche se farlo gli permetterebbe di raggiungere la destinazione.)
-
-> [!combat]- **Combattimento - La Piazza della Città**
-> **Livello di Combattimento**: Lieve
-> **Livello del Personaggio Previsto**: 3
-> **Alleati:** Ismark Kolyanovich (GS 3)
-> **Consumo HP Previsto:** 16%
->
-> ### **Nemici:**
->
-> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
-> |-|-|-|-|-|
-> | Zombie | 0 | 0 | 0 | 1 |
-> | Zombie Plague Spreader | 1 | 1 | 1 | 1 |
->
-> ### **Bilanciamento:**
-> Se hai meno o più di 5 giocatori, modifica l'incontro nei seguenti modi:
->
-> | Numero di Giocatori | Modifica |
-> |-|-|
-> | 3 | Riduci i punti ferita del plague spreader a 93, rimuovi il danno necrotico dai suoi attacchi Schianto e riduci il danno del miasma a 2d4. |
-> | 4 | Riduci i punti ferita del plague spreader a 112 e riduci il danno necrotico dei suoi colpi senz'armi a 1d6. |
-> | 6 | Aggiungi uno zombie che combatte al fianco del plague spreader. |
-
-> [!info]+ **NPC morenti**
-> Come indicato in *Mostri e Morte* (<span class="citation">Manuale del Giocatore, p. 198</span>), i personaggi non giocanti alleati — come Ismark Kolyanovich e qualsiasi altro NPC che combatte al fianco dei giocatori — dovrebbero cadere privi di sensi quando ridotti a 0 punti ferita. In tal caso, seguono le stesse regole per i tiri salvezza contro la morte dei personaggi giocanti.
+Lo zombie appestato, che inizia a 36 metri dal centro della piazza e ha le stesse statistiche dette sopra, non userà il suo ***Miasma virulento*** finché non raggiungerà il centro della piazza o non sarà ridotto a 30 punti ferita o meno. Ogni round, tenta di muoversi alla sua massima velocità in linea retta verso la piazza. Se non può farlo, usa il suo ***Multiattacco*** contro le creature a portata. (Lo zombie appestato non tenta di aggirare le creature che lo ostacolano, anche se farlo gli permetterebbe di raggiungere la destinazione.)
 
 ### Il Proclama di Rahadin
-Poco dopo che i giocatori hanno sconfitto il plague spreader, un cavaliere solitario affiancato da dodici **zombie** si avvicina alla piazza da ovest. Leggi:
+Poco dopo che i giocatori hanno sconfitto lo zombie appestato, un cavaliere solitario affiancato da dodici **zombie** si avvicina alla piazza da ovest. Leggi:
 
 <div class="description">
 <p>Sentite il rumore di zoccoli che affondano nel fango. Dalle ombre sulla strada occidentale emerge un uomo incappucciato che cavalca un cavallo grigio cenere dagli occhi spenti e d'ombra. Dietro di lui seguono una dozzina di non morti barcollanti, che fiancheggiano il cavaliere, sei per lato.</p>
@@ -613,7 +577,7 @@ Poco dopo che i giocatori hanno sconfitto il plague spreader, un cavaliere solit
 Questo è Rahadin, che cavalca il suo *destriero fantasma*. Fermandosi al bordo della piazza, estrae un rotolo dal mantello e lo srotola. Se non viene interrotto, inizia a leggere, la sua voce risonante che si diffonde in tutta la piazza:
 
 <div class="description">
-<p>"Sette giorni e cinque ventine fa, questo popolo è insorto in un'illegittima ribellione contro Strahd von Zarovich, Conte di Barovia, Signore di Castle Ravenloft e Protettore dei Monti Balinok. Per questo atto di tradimento, questo insediamento è stato colpito da una giusta punizione, affinché i suoi abitanti imparino il peso della loro sfida.</p>
+<p>"Sono passati ventisette giorni da quando questo popolo è insorto in un'illegittima ribellione contro Strahd von Zarovich, Conte di Barovia, Signore di Castle Ravenloft e Protettore dei Monti Balinok. Per questo atto di tradimento, questo insediamento è stato colpito da una giusta punizione, affinché i suoi abitanti imparino il peso della loro sfida.</p>
 <p>"Testimoniato dagli occhi dei morti e dei dannati, questo prezzo è stato estratto nel sangue, comune e nobile allo stesso modo. Si sappia che in questo giorno, la clemenza di Strahd von Zarovich si estende ancora una volta a coloro che torneranno al loro feudo e al loro campo — mentre coloro che continueranno nella loro follia saranno spazzati via come pula al vento."</p>
 </div>
 
@@ -630,7 +594,7 @@ I giocatori possono notare che qualsiasi altro Baroviano entro tre metri da Raha
 
 Avvicinandosi a Ismark, Rahadin lo ispeziona brevemente, poi dichiara freddamente: “Vi prego di accettare le mie congratulazioni per la vostra nuova posizione — e le mie condoglianze per la vostra perdita." A meno che non venga ostacolato, gira il cavallo e lascia il villaggio, seguito ancora una volta dai dodici **zombie**.
 
-Il proclama iniziale di Rahadin lascia Ismark rigido e con il volto di pietra, ma il saluto successivo lo lascia sconvolto e paralizzato. Poco dopo la partenza di Rahadin, Ismark sembra realizzare il peso delle sue parole, emette un urlo gutturale senza parole e corre verso la residenza del burgomaster. (Se Parriwimple è presente, esorta i giocatori a seguire Ismark.)
+Il proclama iniziale di Rahadin lascia Ismark rigido e con il volto di pietra, ma il saluto successivo lo lascia sconvolto e paralizzato. Poco dopo la partenza di Rahadin, Ismark sembra realizzare il peso delle sue parole, emette un urlo gutturale senza parole e corre verso la residenza del borgomastro. (Se Parriwimple è presente, esorta i giocatori a seguire Ismark.)
 
 > [!abstract]+ **I giocatori sfidano Rahadin**
 > Rahadin ha poco interesse per i giocatori. Se sfidato, dichiara semplicemente che l'assedio è stato "la volontà di Strahd" e informa i giocatori che "non spetta a loro mettere in dubbio le azioni dei loro superiori". Se interrogato sulla sua identità, rivela solo di essere Rahadin, ciambellano di Castle Ravenloft e umile servitore di Strahd von Zarovich.
@@ -763,12 +727,12 @@ Il proclama iniziale di Rahadin lascia Ismark rigido e con il volto di pietra, m
 
 ## B5h. Ritorno al Maniero
 ### Le Conseguenze di Strahd
-Se i giocatori seguono Ismark al maniero del burgomaster, trovano i terreni abbandonati e la porta d'ingresso socchiusa. Al suo arrivo, Ismark si precipita all'interno, chiamando a gran voce suo padre e Ireena.
+Se i giocatori seguono Ismark al maniero del borgomastro, trovano i terreni abbandonati e la porta d'ingresso socchiusa. Al suo arrivo, Ismark si precipita all'interno, chiamando a gran voce suo padre e Ireena.
 
 Ismark e i giocatori possono trovare Kolyan e Ireena nel salotto al primo piano. Leggi:
 
 <div class="description">
-<p>Una pozza rossa circonda la forma immobile del burgomaster, i suoi occhi vitrei fissano vacuamente il soffitto mentre il sangue gocciola da un lungo ed elegante taglio sul petto. Non lontano, Ireena giace accasciata sul tappeto sotto una finestra sbarrata, le cui tende lacere oscillano pigramente al vento gelido.</p>
+<p>Una pozza rossa circonda la forma immobile del borgomastro, i suoi occhi vitrei fissano vacuamente il soffitto mentre il sangue gocciola da un lungo ed elegante taglio sul petto. Non lontano, Ireena giace accasciata sul tappeto sotto una finestra sbarrata, le cui tende lacere oscillano pigramente al vento gelido.</p>
 </div>
 
 All'arrivo, Ismark lancia un grido strozzato di angoscia e si china immediatamente per cullare la testa di suo padre tra le mani.
@@ -792,7 +756,7 @@ I giocatori possono origliare questa conversazione con una prova di **Destrezza 
 
 <div class="description">
 <p>I mormorii dalla stanza accanto sono in gran parte indistinti, oscurati dai bassi lamenti delle travi della vecchia casa. Mentre sforzate le orecchie, tuttavia, le parole dei fratelli iniziano a farsi chiare.</p>
-<p>La voce di Ireena, tagliente per l'indignazione, squarcia il silenzio. "Non ne hai il diritto, Ismark. Non puoi semplicemente decidere di mandarmi via, come se fossi un qualche tipo di disturbo! Sono figlia di mio padre quanto te, e la nostra gente ha bisogno di me per ricostruire. Tu hai bisogno di me!"</p>
+<p>La voce di Ireena, tagliente per l'indignazione, squarcia il silenzio. "Non ne hai il diritto, Ismark. Non puoi semplicemente decidere di mandarmi via, come se fossi un qualche tipo di disturbo! Sono figlia di mio padre quanto te, e la nostra gente ha bisogno di me per ricostruire la città. Tu hai bisogno di me!"</p>
 <p>La risposta di Ismark è misurata, sebbene intrisa di una nota inconfondibile di preoccupazione. "Il Diavolo ha messo gli occhi su di te — e anche se noi non crediamo alla leggenda sulle donne dai capelli rossi, altri potrebbero farlo. Barovia non è più sicura per te."</p>
 <p>Uno sbuffo di sfida riecheggia dall'altra parte della sottile parete di legno. "Non sono una codarda, Ismark, e non abbandonerò i nostri amici e vicini nell'ora del bisogno."</p>
 <p>Segue una pausa. Poi, Ismark dice piano: "Gertruda ha lasciato il villaggio stamattina. Da sola."</p>
@@ -801,8 +765,8 @@ I giocatori possono origliare questa conversazione con una prova di **Destrezza 
 <p>C'è un lungo, sofferto silenzio. Poi—</p>
 <p>Ismark sembra esitare, le sue parole leggermente inciampate. "Non ti sto chiedendo di abbandonarli. Ma ci sono altri che hanno bisogno del tuo aiuto. Pensa ai nostri vicini che sono fuggiti verso Vallaki. Hanno bisogno di guida, di qualcuno che difenda i loro diritti — e forse di un leader che un giorno li riporti a casa."</p>
 <p>Segue una lunga pausa. La voce di Ireena è bassa quando finalmente parla — a malapena udibile. "Continua a non piacermi."</p>
-<p>La risposta di Ismark è silenziosa. "È una tua scelta. Non posso togliertela. Ma dopo aver perso Padre, non posso... non posso sopportare l'idea di perdere anche te."</p>
-<p>Il silenzio che segue è palpabile, carico di emozioni non dette. Infine, la voce di Ireena lo interrompe, fragile e sommessa. "Andrò. Solo per te. E solo se prima seppelliremo Padre — insieme."</p>
+<p>La risposta di Ismark è silenziosa. "È una tua scelta. Non posso togliertela. Ma dopo aver perso nostro padre, non posso... non posso sopportare l'idea di perdere anche te."</p>
+<p>Il silenzio che segue è palpabile, carico di emozioni non dette. Infine, la voce di Ireena lo interrompe, fragile e sommessa. "Andrò. Solo per te. E solo se prima seppelliremo nostro padre insieme."</p>
 </div>
 
 Ismark e Ireena salgono le scale pochi istanti dopo. Un giocatore con un punteggio di Saggezza (Intuizione) passiva di 10 o superiore nota che entrambi hanno gli occhi arrossati e gonfi, come se avessero pianto.
@@ -815,19 +779,13 @@ Se confrontato, Ismark può condividere a malincuore le seguenti informazioni:
 Quando i giocatori tornano nella loro stanza, possono vedere due **sciami di pipistrelli** — spie di Strahd — appollaiati sui cornicioni di una casa vicina, mentre osservano in silenzio dall'oscurità.
 
 ### Mattino al Maniero
-Il riposo dei giocatori al maniero passa senza incidenti. Quando si svegliano il mattino seguente poco prima dell'alba, trovano il cadavere del burgomaster in una bara nel soggiorno, come descritto in <span class="citation">E4. Maniero del Burgomaster (p. 44)</span>. Ismark e Ireena sono nella sala da pranzo e bevono tè in silenzio.
+Il riposo dei giocatori al maniero passa senza incidenti. Quando si svegliano il mattino seguente poco prima dell'alba, trovano il cadavere del borgomastro in una bara nel soggiorno, come descritto in <span class="citation">E4. Maniero del borgomastro (p. 44)</span>. Ismark e Ireena sono nella sala da pranzo e bevono tè in silenzio.
 
 Quando i giocatori scendono al piano principale, Ireena li saluta e insiste per preparare loro ciotole di porridge di latte di capra e tazze di tè alla camomilla per colazione. Mentre Ireena si dà da fare in cucina, Ismark chiede solennemente e scusandosi tre favori ai giocatori.
 
 ***Scortare Ireena.*** Ismark osserva prima che Ireena sembra essere diventata un bersaglio sia per il Diavolo che per i suoi concittadini, e che non crede più che il villaggio, che giace direttamente sotto l'ombra di Castel Ravenloft, sia sicuro per lei.
 
 Ismark condivide le informazioni riguardo al suo desiderio di portarla a Vallaki come descritto in <span class="citation">Interpretare Ismark (p. 43)</span>, e nota che la Chiesa di St. Andral a Vallaki si dice sia terra consacrata. Sebbene non possa lasciare Barovia a causa dei suoi doveri come successore di suo padre, Ismark chiede ai giocatori se sarebbero disposti a portarla alla chiesa al suo posto.
-
-> [!warning]+ **Chiarimento delle Aspettative**
->
-> *Curse of Strahd: Reloaded* è una campagna su eroi. Riguarda anche il farsi alleati e i legami che nascono da queste alleanze.
->
-> Pertanto, sebbene Ireena non sia un PNG essenziale per la campagna, un gruppo che rifiuta la richiesta di Ismark probabilmente ha aspettative diverse rispetto al tipo di campagna proposta. Se i giocatori rifiutano di scortare Ireena a Vallaki, metti in pausa il gioco e parla con loro per chiarire le aspettative. Se sono ancora riluttanti, discuti ulteriormente la questione prima di riprendere.
 
 ***Cercare Madam Eva.*** L'attacco di Strahd al villaggio ha solo rafforzato la convinzione di Ismark che i Baroviani debbano trovare un modo per sfuggire alla tirannia del vampiro. "Non possiamo continuare a vivere così," gracchia, stringendo i pugni finché le nocche non diventano bianche. "Ho sentito quanto fossero terribili le cose cento anni fa, prima che andasse a dormire. Vampiri in ogni ombra. Genitori e figli che sparivano nella notte. Topi, lupi e pipistrelli che riferivano ogni nostra mossa al castello. Anche se il Diavolo tornasse dormiente tra cinquanta o sessant'anni, chi saremmo noi se condannassimo i nostri figli e nipoti allo stesso destino?"
 
@@ -842,7 +800,7 @@ I giocatori hanno un round per uccidere il topo mentre corre verso un grosso buc
 ## B5i. La Chiesa di Barovia
 <span class="citation"><em>Questa scena si svolge nel Capitolo 3: Area E5.</em></span>
 
-Quando i giocatori arrivano alla chiesa con il corpo del burgomaster, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] è turbato dai danni inflitti alle pareti e al tetto. Mentre bussa alla porta principale e chiama Padre Donavich, se Parriwimple è ancora vivo, leggi quanto segue:
+Quando i giocatori arrivano alla chiesa con il corpo del borgomastro, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] è turbato dai danni inflitti alle pareti e al tetto. Mentre bussa alla porta principale e chiama Padre Donavich, se Parriwimple è ancora vivo, leggi quanto segue:
 
 <div class="description">
 <p>Mentre il rintocco del bussare di Ismark echeggia nell'aria gelida, una voce risuona dalla strada buia: "Non uscirà."</p>
@@ -865,6 +823,13 @@ Parriwimple, che è fuori per una passeggiata ("Mi aiuta a pensare," mormora, se
 Parriwimple non accompagnerà i giocatori all'interno della chiesa, ma augura loro buona fortuna e li invita a visitarlo all'Emporio di Bildrath prima di andarsene.
 
 ### All'Interno della Chiesa
+
+<div class="description">In cima a una leggera salita, contro la base del pilastro di pietra che sostiene Castel Ravenloft, si erge un edificio grigio e cadente di pietra e legno. È evidente che questa chiesa ha resistito per secoli agli assalti delle forze del male, poiché ha un aspetto usurato e stanco. Sul retro, un campanile si erge verso il cielo e una luce tremolante filtra dai buchi tra le tegole del tetto. Le travi sorreggono a malapena il proprio carico.</div>
+
+Se si avvicinano
+
+<div class="description">La pesante porta in legno della chiesa è ricoperta di segni di artigli ed è sfregiata dal fuoco.</div>
+
 Quest'area è in gran parte come descritta nella sezione <span class="citation">Chiesa (p. 45)</span>. Tuttavia, modifica il testo descrittivo per <span class="citation">E5a. Atrio (p. 45)</span> per rimuovere il grido di Doru:
 
 <div class="description">
@@ -914,7 +879,7 @@ Se viene a sapere che Ismark e Ireena sono con i giocatori, Donavich si comporta
 
 Mentre la conversazione si svolge, potrebbero verificarsi i seguenti scambi:
 
-* Se Ismark, Ireena o un giocatore chiedono di seppellire il defunto burgomaster, Padre Donavich li informa che sarebbe lieto di presiedere alla sepoltura, ma che non può compiere i riti sacri necessari per santificare i resti di Kolyan.
+* Se Ismark, Ireena o un giocatore chiedono di seppellire il defunto borgomastro, Padre Donavich li informa che sarebbe lieto di presiedere alla sepoltura, ma che non può compiere i riti sacri necessari per santificare i resti di Kolyan.
 * Se notano i danni alla chiesa, Donavich informa che sono stati causati da una **progenie vampirica** — l'involucro non morto di suo figlio, Doru. (Sia Ismark che Ireena sono scioccati, credendo che fosse morto a Castel Ravenloft.)
 * Se lo informano che Gertruda (la promessa sposa di Doru) è scomparsa, Donavich la piange e mormora una preghiera affinché il Signore del Mattino protegga la sua anima.
 
@@ -1085,7 +1050,7 @@ Ireena offre il **braccialetto d'argento** (valore 100 mo) ai giocatori come ric
 
 Ireena mostra poi i segni del morso sul collo. "Non so perché non mi abbia uccisa o trasformata," dice stringendo i pugni. "Non so se sia un gioco malato o se gli piaccia veder soffrire la gente."
 
-**_Milestone_**. Difendere il villaggio e seppellire il Burgomaster completa un traguardo della storia. Se i giocatori partono con Ireena, assegna 400 PE a testa. Se Doru ha superato la prova, assegna altri 100 PE.
+**_Milestone_**. Difendere il villaggio e seppellire il Borgomastro completa un traguardo della storia. Se i giocatori partono con Ireena, assegna 400 PE a testa. Se Doru ha superato la prova, assegna altri 100 PE.
 
 > [!info]+ **Ireena si unisce al gruppo**
 >
